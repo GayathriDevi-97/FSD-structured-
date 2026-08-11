@@ -7,6 +7,19 @@
   "type": "commonjs",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GayathriDevi-97/Type-script.git"
+  },
+  "keywords": [],
+  "bugs": {
+    "url": "https://github.com/GayathriDevi-97/Type-script/issues"
+  },
+  "homepage": "https://github.com/GayathriDevi-97/Type-script#readme",
+  "dependencies": {
+    "express": "^5.2.1"
   }
 }
