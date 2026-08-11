@@ -1,1 +1,0 @@
-{"version":3,"file":"staticmethod.js","sourceRoot":"","sources":["staticmethod.ts"],"names":[],"mappings":";;AAAA,MAAM,OAAO;IACT,MAAM,CAAC,WAAW,GAAW,yBAAyB,CAAC;IAEvD,MAAM,CAAC,cAAc;QACjB,OAAO,CAAC,GAAG,CAAC,UAAU,EAAE,OAAO,CAAC,WAAW,CAAC,CAAC;IACjD,CAAC;CACJ;AAED,OAAO,CAAC,cAAc,EAAE,CAAC"}
